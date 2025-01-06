@@ -1,11 +1,13 @@
 # Wake word Detection on Raspberry Pi
 
+![Image](/Images/Cover%20Image.jpg)
+
 ## Introduction
 In this project, I have used a RNN model to deploy a wake word detection model on the Raspberry Pi 5. Two separate application is developed with the help of a wake word model:
 1. Display Time on wake Word: Uses 128 x 64 pixel SSD1306 OLED display to show current time for 5 seconds when the wake word is detected.
 2. Image Capture on OLED display: Captures and image from the Raspberry Pi Camera Module V3 and stores them in local drive when the wake word is detected.
 
-More details can be found here: 
+More details can be found here: [Hackster.io Project](https://www.hackster.io/shubhamsantosh99/image-capture-on-wake-word-c99a42)
 
 ## Folder Structure:
 `/ww_16` audio samples of wake word 'raspi' captured from the microphone at 16 KHz with a 2 second sample duration.
