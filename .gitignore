@@ -1,0 +1,6 @@
+I2C_clock.py
+wake_word_detection.ipynb
+*.ipynb_*
+*.pth
+*.pth
+*.npz
