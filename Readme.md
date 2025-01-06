@@ -1,4 +1,4 @@
-# Wake word detection on Raspberrypi
+# Wake word Detection on Raspberry Pi
 
 ## Introduction
 In this project, I have used a RNN model to deploy a wake word detection model on the Raspberry Pi 5. Two separate application is developed with the help of a wake word model:
@@ -36,12 +36,19 @@ More details can be found here:
     a. Ensure that the OLED display and the INMP441 microphone is setup correctly.
 
     b. Run the code `wake_word_time_display.py`
+    
+    Demo: 
+
+    [![Project-1](https://img.youtube.com/vi/TjZlh7XeYAc/1.jpg)](https://www.youtube.com/watch?v=TjZlh7XeYAc)
 
 4. Execute Project-2(Image Capture):
    a. Make sure that the Raspberry Pi Camera Module V3 is setup correctly.
 
    b. Run the code `Wake_word_camera_capture.py`.
 
+    Demo
+
+    [![Project-2](https://img.youtube.com/vi/KbtO2zOsly4/1.jpg)](https://www.youtube.com/watch?v=KbtO2zOsly4)
 
 
 
